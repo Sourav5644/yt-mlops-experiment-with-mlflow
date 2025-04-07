@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153470948847538177/277ea3b137b2444d90bc9b4c227deb4f/artifacts
+end_time: 1744022349237
+entry_point_name: ''
+experiment_id: '153470948847538177'
+lifecycle_stage: active
+run_id: 277ea3b137b2444d90bc9b4c227deb4f
+run_name: redolent-dove-91
+run_uuid: 277ea3b137b2444d90bc9b4c227deb4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744022326438
+status: 3
+tags: []
+user_id: bhard

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/153470948847538177/73e5a39f95604bb8a5afb5ae7f435925/artifacts
+end_time: 1744024719621
+entry_point_name: ''
+experiment_id: '153470948847538177'
+lifecycle_stage: active
+run_id: 73e5a39f95604bb8a5afb5ae7f435925
+run_name: selective-tern-10
+run_uuid: 73e5a39f95604bb8a5afb5ae7f435925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744024701969
+status: 3
+tags: []
+user_id: bhard

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/fc570b13f7304e7b944604f78ed0d1bb/artifacts
+deleted_time: 1744018975339
+end_time: 1744013678041
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fc570b13f7304e7b944604f78ed0d1bb
+run_name: intrigued-wren-821
+run_uuid: fc570b13f7304e7b944604f78ed0d1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744013675270
+status: 4
+tags: []
+user_id: bhard

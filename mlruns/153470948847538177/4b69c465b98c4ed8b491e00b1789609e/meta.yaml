@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/153470948847538177/4b69c465b98c4ed8b491e00b1789609e/artifacts
+deleted_time: 1744022655875
+end_time: 1744022166744
+entry_point_name: ''
+experiment_id: '153470948847538177'
+lifecycle_stage: deleted
+run_id: 4b69c465b98c4ed8b491e00b1789609e
+run_name: nebulous-boar-663
+run_uuid: 4b69c465b98c4ed8b491e00b1789609e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744022165196
+status: 4
+tags: []
+user_id: bhard
